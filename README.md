@@ -47,7 +47,7 @@ Supports user roles (`STUDENT`, `LIBRARIAN`), book inventory, borrow/return syst
 
 ### 📦 Clone & Build
 ```bash
-git clone https://github.com/Aditya-Somasi/Library.git
+git clone https://github.com/Aditya-Somasi/Library_Management_System.git
 cd library-backend
 ```
 
